@@ -5,7 +5,7 @@ import { Input } from '@/components/ui/input.jsx'
 import { Textarea } from '@/components/ui/textarea.jsx'
 import { Badge } from '@/components/ui/badge.jsx'
 import { BookOpen, Star, Mail, ExternalLink, Sparkles, Zap } from 'lucide-react'
-import logo from './assets/aeldern_tomes_logo_concept.png'
+import logo from './assets/eldern_tomes_logo_concept.png'
 import './App.css'
 
 function App() {

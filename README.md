@@ -1,10 +1,10 @@
-# Aelderan Tomes Website
+# Ældern Tomes Website
 
-This is the official website for Aelderan Tomes. This document provides all the necessary information for developers to get started with the project, understand its structure, and contribute effectively.
+This is the official website for Ældern Tomes. This document provides all the necessary information for developers to get started with the project, understand its structure, and contribute effectively.
 
 ## Project Purpose
 
-This project is a modern, responsive website built to serve as the online presence for Aelderan Tomes. It is designed to be easily maintainable and scalable.
+This project is a modern, responsive website built to serve as the online presence for Ældern Tomes. It is designed to be easily maintainable and scalable.
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@ Follow these instructions to set up the project on your local machine for develo
 1.  **Clone the repository:**
     ```bash
     git clone <repository-url>
-    cd aeldern-tomes
+    cd eldern-tomes
     ```
 
 2.  **Install dependencies:**
